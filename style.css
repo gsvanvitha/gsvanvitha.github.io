@@ -1,0 +1,240 @@
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+
+    }
+body{
+background-image: url("https://t3.ftcdn.net/jpg/02/93/77/88/360_F_293778820_VP6qfWyVXbV7imdLrLVxevEi6wfIrNID.jpg");
+ background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  .Tab {
+    color: white;
+    background-color: teal;
+    display: inline;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0px;
+    padding: 20px;
+    /*text-transform: capitalize;*/
+    float: left;
+    border: 1px solid ivory;
+    outline: none;
+    cursor: pointer;
+    width: 25%;
+  }
+
+  button {
+    transition-duration: 0.4s;
+  }
+
+  .Tab:hover {
+    background-color: #777;
+  }
+
+  nav{
+    background-color: black;
+    width: 100%;
+    position: fixed;
+  }
+  .tabInfo{
+    color: black;
+    width: 25%;
+    margin: auto;
+    margin-bottom: 30px;
+
+  }
+  .tabInfoContent{
+    margin-left: 30px;
+    font-family: 'Brush Script MT';
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  #aboutMeInfo{
+    margin-top: 50px;
+  }
+  .home{
+    margin: auto;
+  }
+   .headingTable{
+    font-size: 35px;
+    font-family: 'Times New Roman';
+    color: navy;
+    margin-left: 470px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    }
+  table, th, td {
+    border: 1px solid ivory;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 30px;
+    text-align: center;
+  }
+
+  th{
+    background-color: black;
+    color: white;
+  }
+
+ #t01 th {
+   color: white;
+   background-color: black;
+   font-size: 18px;
+ }
+#t01 {
+  width: 50%;
+  margin: auto;
+}
+#t01 td{
+ font-family: 'Times New Roman';
+ font-size: 20px;
+ background-color: #BEBEBE;
+}
+#t02{
+    margin-top: 50px;
+    width: 50%;
+    margin: auto;
+}
+
+#t02 #t02header {
+   background-color: black;
+   font-size: 18px;
+   color: white;
+ }
+
+ #t02 td{
+ background-color: #BEBEBE;
+ font-size: 20px;
+ font-family: 'Times New Roman';
+ }
+  .paragraph{
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    text-align: center;
+    margin-top: 100px;
+    color: navy;
+  }
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  float: left;
+  margin: 0 10px 0 -25px;
+  height: 70px;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  background: #CC0066;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-envelope {
+  background: #330066;
+  color: white;
+}
+
+.fa-phone {
+  background: #003333;
+  color: white;
+}
+
+.indentation {
+  display: inline-block;
+  padding: 0 25px;
+  height: 68px;
+  font-size: 20px;
+  line-height: 50px;
+  border-radius: 33px;
+  background-color: silver;
+  margin-top: 65px;
+  margin-left: 300px;
+  width: 20%;
+  text-align: left;
+  color: navy;
+}
+
+.one{
+    float: left;
+}
+.two{
+    float: right;
+    margin-right: 400px;
+}
+.last{
+    margin-left: 700px;
+}
+
+#contactMe{
+    margin-top: 100px;
+}
+
+.text{
+    padding: 10px;
+}
+
+#contactHeading{
+margin-left: 750px;
+color: navy;
+font-size: 20px;
+margin-top: 20px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+  margin-top: 10px;
+}
+
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.header p {
+    color: navy;
+    text-align: center;
+    font-family: 'Times New Roman';
+   font-size: 70px;
+}

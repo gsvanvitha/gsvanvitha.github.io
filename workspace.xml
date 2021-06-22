@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a48282d-8297-4c74-bdff-d7774b302941" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SpringExample/src/main/java/com/example/SpringExample/config/LeafConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample/src/main/java/com/example/SpringExample/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample/src/main/java/com/example/SpringExample/config/SecurityWebApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample/src/main/java/com/example/SpringExample/controller/BookRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample/src/main/java/com/example/SpringExample/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample/src/main/java/com/example/SpringExample/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample/src/main/java/com/example/SpringExample/dao/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample/src/main/java/com/example/SpringExample/dao/ReviewRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample/src/main/java/com/example/SpringExample/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample/src/main/java/com/example/SpringExample/entity/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample/src/main/java/com/example/SpringExample/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample/src/main/java/com/example/SpringExample/service/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample/src/test/java/com/example/SpringExample/SpringExampleApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/java/com/springboot/assignment/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/java/com/springboot/assignment/SpringbootAssignmentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/java/com/springboot/assignment/aop/AroundLoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/java/com/springboot/assignment/config/LeafConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/java/com/springboot/assignment/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/java/com/springboot/assignment/config/SecurityWebApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/java/com/springboot/assignment/controller/BookRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/java/com/springboot/assignment/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/java/com/springboot/assignment/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/java/com/springboot/assignment/dao/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/java/com/springboot/assignment/dao/ReviewRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/java/com/springboot/assignment/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/java/com/springboot/assignment/entity/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/java/com/springboot/assignment/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/java/com/springboot/assignment/service/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/resources/templates/access-denied-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/resources/templates/books/add-review.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/resources/templates/books/add-update-book-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/resources/templates/books/list-books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/resources/templates/books/list-reviews-bookId.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/resources/templates/books/list-reviews.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/resources/templates/fancy-login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/main/resources/templates/helloworld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-assignment/src/test/java/com/springbootassignment/springbootassignment/SpringbootAssignmentApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1uDgKT42KUlSccIcI886kefV9wQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringExample" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a48282d-8297-4c74-bdff-d7774b302941" name="Default Changelist" comment="" />
+      <created>1624205514181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624205514181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
